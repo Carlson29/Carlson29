@@ -20,6 +20,43 @@ I build useful software across full-stack web development, data products, and ma
 - Interested in software engineering, data, and machine-learning opportunities
 - Focused on building clear, secure, and practical products from data through deployment
 
+## Currently building
+
+I am actively developing and contributing to projects that combine product thinking, data science, and responsible AI engineering.
+
+<table>
+  <tr>
+    <td width="27%">
+      <a href="https://github.com/MarcoLadeira/QuotePack"><strong>QuotePack.ie</strong></a><br />
+      <sub>Contributor · Active development</sub>
+    </td>
+    <td>
+      A digital-product platform helping small Irish trade businesses prepare faster, clearer, and more profitable quotes without adopting heavy job-management software. I contribute across the product system, including the Next.js storefront, browser-based estimating tools, release quality, and the evidence-led workflow behind the first Electrician Quote and Materials Pack.<br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Product Engineering</code> <code>Automated QA</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="27%">
+      <a href="https://github.com/Carlson29/Crude-Oil-Prices-Model"><strong>WTI Price Forecasting</strong></a><br />
+      <sub>Creator · Research in progress</sub>
+    </td>
+    <td>
+      A multivariate forecasting project exploring how market and macroeconomic signals can improve predictions of West Texas Intermediate crude-oil prices. The current pipeline brings together WTI and Brent prices, volatility indices, the US dollar, gold, Treasury yields, industrial production, and wider market data for preprocessing, time-series analysis, feature engineering, and model evaluation.<br /><br />
+      <code>Python</code> <code>pandas</code> <code>scikit-learn</code> <code>statsmodels</code> <code>Time Series</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="27%">
+      <a href="https://github.com/MarcoLadeira/OPai"><strong>OPai</strong></a><br />
+      <sub>Contributor · Public alpha</sub>
+    </td>
+    <td>
+      A local-first AI coding cost and safety layer for tools such as Codex, Claude, Copilot, Cursor, and Cline. I contribute to a platform that routes work through deterministic tools and local models before paid cloud models, adds explicit approval gates for sensitive actions, and records measurable cost savings while keeping project context private.<br /><br />
+      <code>Python</code> <code>CLI</code> <code>Local AI</code> <code>Model Routing</code> <code>GitOps</code>
+    </td>
+  </tr>
+</table>
+
 ## Selected work
 
 | Project | What it demonstrates | Technology |
@@ -56,4 +93,3 @@ I'm open to software development, data, and machine-learning opportunities in Ir
 - [View my portfolio](https://carlson-kw.netlify.app/)
 - [Connect on LinkedIn](https://www.linkedin.com/in/kometa-carlson-97649723b/)
 - [Email me](mailto:kometacarlson@gmail.com)
-
