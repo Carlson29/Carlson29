@@ -47,6 +47,14 @@ A time-series research project forecasting weekly WTI returns from macro-financi
 
 `Python` `Prophet` `scikit-learn` `Time Series` `Streamlit` `CI`
 
+## Applied AI project
+
+### [Document Classification Model](https://github.com/Carlson29/Document-Classification-Model)
+
+A deep-learning image-classification project that fine-tunes MobileNetV2 to recognise 16 types of scanned business documents, including invoices, emails, resumes, forms, and scientific reports. The workflow prepares 36,800 images from the RVL-CDIP dataset, applies transfer learning with early stopping and model checkpoints, and evaluates performance using precision, recall, F1-score, a confusion matrix, and learning curves. The model achieved **60.8% test accuracy**, while the analysis also documents weaker classes and practical next steps rather than hiding the experiment's limitations.
+
+`Python` `TensorFlow/Keras` `MobileNetV2` `Computer Vision` `Hugging Face` `scikit-learn`
+
 ## More selected work
 
 | Project | Engineering value | Technology |
