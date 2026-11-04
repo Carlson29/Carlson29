@@ -23,7 +23,19 @@ I'm a First Class Honours Cloud Computing graduate with postgraduate training in
 
 ## Featured projects
 
+### [Gossip — secure full-stack messaging platform](https://github.com/playerzer0-ui/Gossip)
+
+**Collaborative software-engineering project**
+
+A Java web application supporting secure authentication, encrypted one-to-one and group conversations, media and file sharing, stories, blocking, reporting, and administrative moderation. The system combines JSP interfaces, Jakarta Servlets, a JDBC data layer, and MySQL persistence, with JUnit, Mockito, and Selenium coverage across application and browser workflows.
+
+`Java` `JSP` `Jakarta Servlets` `MySQL` `JUnit` `Selenium`
+
+---
+
 ### [SaveThePlanet — renewable-energy recovery and EV charging](https://github.com/MarcoLadeira/SaveThePlanet)
+
+> **🏆 Presented at Microsoft Hackathon — Hack the Climate 2026**
 
 **Product Owner & Technical Lead · Four-person Hack the Climate 2026 team**
 
@@ -34,6 +46,8 @@ An AI-powered prototype that turns 30-minute renewable-energy curtailment foreca
 ---
 
 ### [GridToEV — dispatch-down forecasting platform](https://github.com/Carlson29/GridToEv)
+
+> **🏆 Presented at Microsoft Hackathon — Hack the Climate 2026**
 
 An auditable energy-forecasting system that predicts renewable dispatch-down in Ireland 30 or 60 minutes ahead and serves predictions through FastAPI. It combines multi-year EirGrid history, publication-time-safe forecast features, purged time-series evaluation, reproducible benchmark contracts, model artefacts, data-quality reports, and automated tests.
 
@@ -59,7 +73,6 @@ A deep-learning image-classification project that fine-tunes MobileNetV2 to reco
 
 | Project | Engineering value | Technology |
 | --- | --- | --- |
-| [Gossip Messaging Platform](https://github.com/playerzer0-ui/Gossip) | Collaborative full-stack messaging system with secure authentication, encrypted chats, groups, media, moderation, DAO tests, and browser test bots | Java, JSP, Jakarta Servlets, MySQL, JUnit, Selenium |
 | [FastJobs Marketplace](https://github.com/Carlson29/FastJobs) | Location-aware marketplace connecting customers with nearby skilled workers; presented at the DkIT Computing Expo 2025 | PHP, JavaScript, MySQL, Google Maps API |
 | [UK Collision Data Dashboard](https://github.com/Carlson29/UK-Collision-Data-Dashboard) | Interactive exploration of 48,201 road collisions using maps, filters, indicators, and risk analysis · [Live dashboard](https://019de9c2-b858-502c-496c-abe2e98ca1cd.share.connect.posit.cloud/) | Python, Shiny, Plotly, pandas |
 | [Attacking Footballers' Market Value](https://github.com/Carlson29/Attacking-Football-Players-Value) | Statistical analysis of 11,145 players using hypothesis tests, feature analysis, and interpretable regression modelling | Python, pandas, statsmodels, Data Visualisation |
